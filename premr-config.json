@@ -1,0 +1,14 @@
+{
+  "priceUsd": 55.19,
+  "addresses": [
+    {
+      "chainId": 1,
+      "contract": "0x6C436beE5F335e62110a8200F95A19d2096EFf40"
+    },
+    {
+      "chainId": 11155111,
+      "contract": "0xEb1CE00721Da4AB06F9F4cDAc7fC8F8aABFE7F7F"
+    }
+  ],
+  "updatedAt": "2026-04-23T17:00:00Z"
+}
